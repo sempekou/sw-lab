@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Καλώς ήλθατε στο Εργαστήριο του μαθήματος Τεχνολογία Λογισμικού
 
 You can use the [editor on GitHub](https://github.com/apanaretos/sw-lab/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
